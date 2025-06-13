@@ -1,7 +1,7 @@
 # Dungeon Buddy
 
 Dungeon buddy is a Discord bot built with [DiscordJS](https://discord.js.org/) exclusively for the
-[No Pressure](https://discord.gg/nopressureeu) discord server.
+[Emberlyn](https://discord.gg/hbjKjGMuQg) discord server.
 
 It allows for an interactive group building experience, where members can create groups, join groups, and leave groups.
 The bot also provide information on the group, such as the dungeon, keystone level and the roles required. All
@@ -27,6 +27,16 @@ Example quick string: `fall 10t d hdd`
 `/lfgstats` - check total groups created, groups created in the last 24h, 7d, 30d & also the most popular dungeons for
 each key range.
 
+Rep System added including Mentorship and Sociability thanks
+
+`/thank` thanks a use may only be used once per target user per day.
+
+`/checkthanks` checks a users thanks if no user is selected checks yours.
+
+`/leaderboard` shows a thanks leaderboard (all, mentorship, Sociability).
+
+`/clear` admin only used to remove chat messages
+
 ## License
 
 This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
@@ -39,5 +49,5 @@ This project is licensed under the [CC BY-NC 4.0 License](https://creativecommon
 -   This code **cannot** be used in any product that is sold for money or restricted by a paywall. This includes Discord
     member sections
 
-If you have questions about the licensing terms, please contact me at the [No Pressure](https://discord.gg/nopressureeu)
+If you have questions about the licensing terms, please contact the original creator at the [No Pressure](https://discord.gg/nopressureeu)
 discord server.
